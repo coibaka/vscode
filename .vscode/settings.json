@@ -118,5 +118,8 @@
 	},
 	"githubPullRequests.assignCreated": "${user}",
 	"githubPullRequests.defaultMergeMethod": "squash",
-	"application.experimental.rendererProfiling": true
+	"application.experimental.rendererProfiling": true,
+	"code-runner.runInTerminal": true,
+	"appService.defaultWebAppToDeploy": "/subscriptions/69ab3bf7-1a74-4577-a5b4-09df796ecd49/AppServices/subscriptions/69ab3bf7-1a74-4577-a5b4-09df796ecd49/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/api2512",
+	"appService.deploySubpath": "node_modules"
 }
